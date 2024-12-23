@@ -1,0 +1,1 @@
+# Small image DPI converter for academic writing, for jpeg
